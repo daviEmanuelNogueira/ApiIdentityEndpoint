@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiIdentityEndpoint", "ApiIdentityEndpoint\ApiIdentityEndpoint.csproj", "{5A468868-CF6E-45D4-85B2-8EA4A355D844}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A468868-CF6E-45D4-85B2-8EA4A355D844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A468868-CF6E-45D4-85B2-8EA4A355D844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A468868-CF6E-45D4-85B2-8EA4A355D844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A468868-CF6E-45D4-85B2-8EA4A355D844}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC7590F8-3548-4B49-AABA-5FB8B486E148}
+	EndGlobalSection
+EndGlobal
